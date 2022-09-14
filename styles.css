@@ -9,9 +9,9 @@
 .blog{
   text-align: center;
   font-size: larger;
-  color: rgb(247, 247, 247);
-  background-color: rgb(51, 153, 123);
-  border: 2px solid darkblue;
+  color: white;
+  background-color: rgb(60, 169, 136);
+  border: 2px solid rgb(9, 9, 166);
   border-radius: 10px;
   padding:1rem;
   text-decoration: none;
