@@ -141,3 +141,9 @@ setInterval(() => {
 
   document.getElementById("show-time").innerHTML = `${startTime ? timeSpentTwo : 0} seconds`;
 }, 1000);
+
+// localStorage clear btn 
+document.getElementById("btn-clear").addEventListener("click",function(){
+  localStorage.clear();
+  location.reload();
+})
