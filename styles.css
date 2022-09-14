@@ -3,6 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+.displayFuile{
+  margin:20rem 30rem;
+}
+
 
 body {
   background-image: url("./bg.png");
